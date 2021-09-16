@@ -3,7 +3,7 @@
 DAY 1:<br />
 A dataset is given with file name "train.csv"<br />
 Task is to perform data cleaning and describe the dataset.<br />
-(Markdown cells in the ipynb file contain descriptions and explanations)
+(Markdown cells in the ipynb file contain descriptions and explanations)<br />
 -Found the no. of empty cells in each column and removed the rows containing the empty cells.  <br />
 -Removed the rows containg non numeric values in fields where the data should be numeric  <br />
 -Described each field (column) seperately and found outliers<br />
