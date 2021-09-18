@@ -19,5 +19,5 @@ DAY 2:<br />
 <br />
 DAY 3:<br />
 (Markdown cells in the ipynb file contain descriptions/explanations)<br />
--Tried using a simple multivariate liner regression to make a model for prediction of PM2.5 but it gave low accuracy as expected.<br />
+-Tried using a simple multivariate liner regression to make a model for prediction of PM2.5 ,it gave low accuracy as expected.<br />
 -Tried implementing ANN using keras to make a model but failed<br />
