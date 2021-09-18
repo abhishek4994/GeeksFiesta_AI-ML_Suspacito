@@ -16,3 +16,8 @@ DAY 2:<br />
 -Found correlation of PM2.5 with the other columns and provided descriptions of how PM2.5 is getting affected by other columns<br />
 -Visualized the correlation matrix found using heatmap<br />
 -Boxplots were plotted for each column in the dataset, and the findings were presented<br />
+<br />
+DAY 3:<br />
+(Markdown cells in the ipynb file contain descriptions/explanations)<br />
+-Tried using a simple multivariate liner regression to make a model for prediction of PM2.5 but it gave low accuracy as expected.<br />
+-Tried implementing ANN using keras to make a model but failed<br />
